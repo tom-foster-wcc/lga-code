@@ -1,0 +1,340 @@
+code,local_name,ward name
+E01031005,"New Arley East, Hill Top & Ansley",Arley and Whitacre
+E01031006,New Arley West & Old Arley,Arley and Whitacre
+E01031007,New Arley South & Over Whitacre,Arley and Whitacre
+E01031008,Ansley Common & Birchley Heath,Arley and Whitacre
+E01031009,Atherstone - Canal & Outwoods,Atherstone Central
+E01031010,Atherstone Town Centre,Atherstone Central
+E01031011,Atherstone North - Town Centre North & Alder Mill,Atherstone North
+E01031012,Atherstone North - St. Georges & Carlyon,Atherstone North
+E01031013,Atherstone South,Atherstone South and Mancetter
+E01031014,Mancetter North,Atherstone South and Mancetter
+E01031015,Mancetter South & Ridge Lane,Atherstone South and Mancetter
+E01031016,Baddesley Ensor West,Baddesley and Grendon
+E01031017,"Grendon, Bradley Green & Whittington",Baddesley and Grendon
+E01031018,"Baddesley Common, Baxterley & Merevale",Baddesley and Grendon
+E01031019,Coleshill North - Grimstock Hill,Coleshill North
+E01031020,Coleshill North - Cole End,Coleshill North
+E01031021,Coleshill South - Centre,Coleshill South
+E01031022,Coleshill South - Hospital & Southfields,Coleshill South
+E01031023,Curdworth & Wishaw,Curdworth
+E01031024,Marston & Water Park,Curdworth
+E01031025,Dordon Rural,Dordon
+E01031026,Dordon Village,Dordon
+E01031027,Corley,Fillongley
+E01031028,Fillongley & The Packingtons,Fillongley
+E01031029,Hartshill South,Hartshill
+E01031030,Hartshill North & Caldecote,Hartshill
+E01031031,Piccadilly & Wood End,Hurley and Wood End
+E01031032,Hurley,Hurley and Wood End
+E01031033,Kingsbury South,Kingsbury
+E01031034,Kingsbury North,Kingsbury
+E01031035,Warton & Shuttington,Newton Regis and Warton
+E01031036,"Newton Regis, Austrey & Seckington",Newton Regis and Warton
+E01031037,Polesworth East - St. Helena,Polesworth East
+E01031038,Polesworth East - Station,Polesworth East
+E01031039,Polesworth West - School,Polesworth West
+E01031040,Polesworth West - Birchmoor & Pooley Fields,Polesworth West
+E01031041,Water Orton West,Water Orton
+E01031042,Water Orton East,Water Orton
+E01031043,Nuneaton - Abbey & Town Centre,Abbey
+E01031044,Nuneaton - Abbey North,Abbey
+E01031045,Nuneaton - Abbey West,Abbey
+E01031046,Nuneaton - Abbey Priory,Abbey
+E01031047,Nuneaton - Abbey South,Abbey
+E01031048,Arbury - Heath End,Arbury
+E01031049,Arbury - George Elliott,Arbury
+E01031050,Arbury - Rural,Arbury
+E01031051,Arbury North,Arbury
+E01031052,Attleborough North East,Attleborough
+E01031053,Attleborough North West,Attleborough
+E01031054,Attleborough Central,Attleborough
+E01031055,Attleborough South West,Attleborough
+E01031056,Attleborough South East,Attleborough
+E01031057,Bar Pool North & Crescents,Bar Pool
+E01031058,Bar Pool West & Recreation Ground,Bar Pool
+E01031059,Bar Pool East & Greenmoor,Bar Pool
+E01031060,Bar Pool - Central,Bar Pool
+E01031061,Bar Pool South,Bar Pool
+E01031062,Bede South West,Bede
+E01031063,Bede Cannons,Bede
+E01031064,Bede - Bedworth Town Centre,Bede
+E01031065,Bede North,Bede
+E01031066,Bede East,Bede
+E01031067,Bulkington Village,Bulkington
+E01031068,Bulkington South East,Bulkington
+E01031069,Bulkington North,Bulkington
+E01031070,Bulkington - Arden,Bulkington
+E01031073,Camp Hill North & Pools,Camp Hill
+E01031074,Camp Hill North West & Allotments,Camp Hill
+E01031075,Camp Hill East & Quarry,Camp Hill
+E01031077,Keresley North & Newlands,Exhall
+E01031078,Keresley South & Ash Green,Exhall
+E01031079,Exhall West,Exhall
+E01031080,Exhall East,Exhall
+E01031081,Galley Common South East,Galley Common
+E01031082,Galley Common South,Galley Common
+E01031083,Galley Common West & Rural,Galley Common
+E01031084,Chapel End,Galley Common
+E01031085,Galley Common East,Galley Common
+E01031086,Goodyers End,Heath
+E01031087,Heath Sports,Heath
+E01031088,Market End & Newdigate,Heath
+E01031089,Little Heath,Heath
+E01031090,Kingswood Grove Farm & Rural,Kingswood
+E01031091,Kingswood - St Pauls,Kingswood
+E01031092,Kingswood - Stockingford Schools,Kingswood
+E01031093,Kingswood - Hills,Kingswood
+E01031094,Kingswood North East,Kingswood
+E01031095,Poplar - Nicholas Chamberlain,Poplar
+E01031096,Poplar North West,Poplar
+E01031097,Poplar - Coalpit Field,Poplar
+E01031098,Poplar - Bayton Road,Poplar
+E01031099,Poplar South,Poplar
+E01031100,St. Nicholas Horeston Grange West,St. Nicolas
+E01031101,St. Nicholas Horeston Grange East,St. Nicolas
+E01031102,St. Nicholas South West,St. Nicolas
+E01031103,St. Nicholas East & The Long Shoot,St. Nicolas
+E01031104,St. Nicholas North & College,St. Nicolas
+E01031105,Slough - Mt. Pleasant,Slough
+E01031106,Slough South & Heath,Slough
+E01031107,Slough - Collycroft North,Slough
+E01031108,Slough West & Rural,Slough
+E01031109,Slough - Collycroft South,Slough
+E01031110,Weddington - St. Nicholas West,Weddington
+E01031111,Weddington - St. Nicholas East,Weddington
+E01031112,Weddington - South & Schools,Weddington
+E01031113,Weddington North,Weddington
+E01031114,Wedding South West & River,Weddington
+E01031115,Wem Brook - Bridges,Wem Brook
+E01031116,Middlemarch & Swimming Pool,Wem Brook
+E01031117,Wem Brook East,Wem Brook
+E01031118,Hill Top,Wem Brook
+E01031119,Riversley,Wem Brook
+E01031120,Whitestone North West & Attleborough Fields,Whitestone
+E01031121,Whitestone North,Whitestone
+E01031122,Whitestone Central,Whitestone
+E01031123,Whitestone East & Rural,Whitestone
+E01031124,Whitestone South,Whitestone
+E01031125,Admirals North,Admirals and Cawston
+E01031127,Admirals East,Admirals and Cawston
+E01031129,Clifton Upon Dunsmore,"Clifton, Newton and Churchover"
+E01031130,Benn - Station,Newbold and Brownsover
+E01031131,Benn West,Benn
+E01031132,Benn South,Benn
+E01031133,Whinfield Park,Eastlands
+E01031134,Bilton East,Bilton
+E01031135,Bilton South - Cock Robin,Bilton
+E01031136,Bilton North West,Bilton
+E01031137,Brownsover North - Lake District,Coton and Boughton
+E01031138,Brownsover North East,Coton and Boughton
+E01031139,Brownsover North - Campion,Coton and Boughton
+E01031140,Brownsover South - Lake District South,Newbold and Brownsover
+E01031141,Brownsover South - Junction One,Newbold and Brownsover
+E01031142,Brownsover South - Lake District North,Newbold and Brownsover
+E01031143,Caldecott South & Rural,Dunsmore
+E01031144,Caldecott North East,Eastlands
+E01031145,Caldecott North West,Eastlands
+E01031146,Caldecott - Rokeby,Rokeby and Overslade
+E01031147,Thurlaston,Dunsmore
+E01031148,Dunchurch,Dunsmore
+E01031149,"Princethorpe, Marton, Frankton, Bourton & Draycote",Dunsmore
+E01031150,Stretton on Dunsmore,Dunsmore
+E01031151,Binley Woods - North,Revel and Binley Woods
+E01031152,Binley Woods - South,Revel and Binley Woods
+E01031153,Wolston South,Wolston and the Lawfords
+E01031154,Brandon & Wolston North,Wolston and the Lawfords
+E01031155,Eastlands South,Paddox
+E01031156,Eastlands South West,Eastlands
+E01031157,Eastlands North,Eastlands
+E01031158,Eastlands - Abbots,Paddox
+E01031159,Fosse West,Revel and Binley Woods
+E01031160,Fosse East,Revel and Binley Woods
+E01031161,Hillmorton North & Locks,Hillmorton
+E01031162,Hillmorton East & Wharf,Hillmorton
+E01031163,Hillmorton West,Hillmorton
+E01031164,Long Lawford South,Wolston and the Lawfords
+E01031165,"Church Lawford, Kings Newnham & Long Lawford North",Wolston and the Lawfords
+E01031166,Leam Valley,Leam Valley
+E01031167,New Bilton South East,New Bilton
+E01031168,New Bilton West & Somers Rd,New Bilton
+E01031169,New Bilton North,New Bilton
+E01031170,New Bilton East,New Bilton
+E01031171,Newbold - Riverside,Newbold and Brownsover
+E01031172,Newbold on Avon,Newbold and Brownsover
+E01031173,Rugby Town Centre,Benn
+E01031174,Rugby - Cattlemarket,Benn
+E01031175,Overslade South East,Rokeby and Overslade
+E01031176,Overslade North,Rokeby and Overslade
+E01031177,Overslade North West,Rokeby and Overslade
+E01031178,Overslade West,Bilton
+E01031179,Paddox South,Paddox
+E01031180,Paddox North,Paddox
+E01031181,Ryton on Dunsmore,Dunsmore
+E01031182,Wolvey,Wolvey and Shilton
+E01031183,"Alcester South, Arrow & Weethley",Alcester & Rural
+E01031184,"Alcester - Abbey, Grammar & Kings Coughton",Alcester & Rural
+E01031185,Alcester North & Conway,Alcester Town
+E01031186,Alcester East & Island,Alcester Town
+E01031187,Aston Cantlow,Kinwarton
+E01031188,Bardon,Alcester & Rural
+E01031189,Dunnington & Salford Priors,Bidford West & Salford
+E01031190,"Bidford East, Waterloo & Broom",Bidford East
+E01031191,Bidford West & Wixford,Bidford West & Salford
+E01031192,"Bidford South, Marlcliff & Barton",Bidford East
+E01031193,Brailes,Ettington
+E01031194,Burton Dassett,Red Horse
+E01031195,Claverdon,Wotton Wawen
+E01031196,Ettington,Ettington
+E01031197,Ladbroke & Priors,Napton & Fenny Compton
+E01031198,"Fenny Compton, Farnborough & Avon Dassett",Napton & Fenny Compton
+E01031199,"Deppers Bridge, Chester & Kings",Harbury
+E01031200,Bishops Itchington,Bishop's Itchington
+E01031201,Harbury,Harbury
+E01031202,Henley West,Henley-in-Arden
+E01031203,Henley East & Beaudesert,Henley-in-Arden
+E01031204,Wootton Wawen,Wotton Wawen
+E01031205,"Kineton, Chadshunt & Compton Verney",Kineton
+E01031206,"Kineton Castle, Lt. Kineton & Combrook",Kineton
+E01031207,Lighthorne & Lighthorne Heath,Kineton
+E01031208,Kinwarton,Kinwarton
+E01031209,Long Compton,Brailes & Compton
+E01031210,Long Itchington West & Ufton,Long Itchington & Stockton
+E01031211,Long Itchington East,Long Itchington & Stockton
+E01031212,Quinton,Quinton
+E01031213,Sambourne,Studley with Mappleborough Green
+E01031214,Shipston South & Furze Hill,Shipston South
+E01031215,Shipston North,Shipston North
+E01031216,Shipston West & Town Centre,Shipston South
+E01031217,Snitterfield & Wolverton,Snitterfield
+E01031218,Hampton Lucy & Fulbrook,Snitterfield
+E01031219,Southam East,Southam North
+E01031220,Southam North,Southam North
+E01031221,Southam West,Southam North
+E01031222,Southam South & Town Centre,Southam South
+E01031223,Stockton,Long Itchington & Stockton
+E01031224,Napton on the Hill,Napton & Fenny Compton
+E01031225,Bridgetown,Bridgetown
+E01031227,Tiddington & Alveston,Tiddington
+E01031228,Clopton & Welcombe Hills,Welcombe
+E01031229,Stratford Town Centre North,Welcombe
+E01031230,Stratford - The Avenue,Avenue
+E01031231,Stratford - Maybird,Avenue
+E01031232,Shottery South & Racecourse,Shottery
+E01031233,Shottery North & Racecourse,Hathaway
+E01031234,Stratford Old Town & Town Centre South,Guildhall
+E01031235,Stratford Old Town,Shottery
+E01031236,Stratford - Bishopton,Bishopton
+E01031237,Stratford Mount Pleasant West,Bishopton
+E01031238,Stratford Mount Pleasant East,Hathaway
+E01031239,Studley East & Priory,Studley with Mappleborough Green
+E01031240,Studley North,Studley with Mappleborough Green
+E01031241,Studley West & Common,Studley with Mappleborough Green
+E01031242,Studley South,Studley with Mappleborough Green
+E01031243,Earlswood,Tanworth-in-Arden
+E01031244,Tanworth,Tanworth-in-Arden
+E01031245,Tredington & Blackwell,Shipston North
+E01031246,"Newbold-on-Stour, Ilmington East & Whitchurch",Shipston North
+E01031247,Vale of the Red Horse,Red Horse
+E01031248,Welford,Welford-on-Avon
+E01031249,Wellesbourne West,Wellesbourne West
+E01031250,"Wellesbourne East, Walton & Airfield",Wellesbourne West
+E01031251,Wellesbourne South,Wellesbourne West
+E01031252,"Moreton Morrell, Ashorne & Newbold Pacey",Wellesbourne East
+E01031253,Wellesbourne North,Wellesbourne East
+E01031254,Kenilworth Castle & Burton Green,Abbey
+E01031255,Kenilworth - Castle Green & Malthouse,Abbey
+E01031256,Kenilworth - Abbey Fields,Abbey
+E01031257,Kenilworth - Abbey East,Abbey
+E01031258,Warwick Town Centre North,Abbey
+E01031259,Bishops Tachbrook North & Warwick Gates,Bishop's Tachbrook
+E01031260,Bishops Tachbrook South,Bishop's Tachbrook
+E01031261,Brunswick South West & Kingsway,Brunswick
+E01031262,Brunswick South & Cemetery,Sydenham
+E01031263,Brunswick North East,Brunswick
+E01031264,Brunswick South East,Sydenham
+E01031265,Brunswick North West & Foundry,Brunswick
+E01031266,Leamington - Old Town West & Railway Bridge,Brunswick
+E01031267,Hampton-on-the-Hill,Budbrooke
+E01031268,Hatton & Hampton Magna,Budbrooke
+E01031269,"Sherbourne, Barford & Wasperton",Budbrooke
+E01031271,Campion Hills & Newbold Comyn,Clarendon
+E01031272,Clarendon North,Newbold
+E01031273,Lillington East,Crown
+E01031274,Lillington West,Crown
+E01031275,Crown North East,Crown
+E01031276,Lillington South,Crown
+E01031277,Cubbington West & New Cubbington,Stoneleigh & Cubbington
+E01031278,"New Cubbington, Blackdown & Old Milverton",Manor
+E01031279,Cubbington East,Stoneleigh & Cubbington
+E01031280,"Bubbenhall, Wappenbury, Weston & Eathorpe",Radford Semele
+E01031281,"Lapworth North, Baddesley Clinton & High Cross",Arden
+E01031282,"Lapworth South, Bushwood, Lowsonford & Rowington",Arden
+E01031283,"Wroxhall, Hasely & Honiley",Arden
+E01031284,"Leek Wootton, Guys Cliffe & Beausale",Arden
+E01031285,Manor South West,Newbold
+E01031286,Manor South & Round Oaks,Crown
+E01031287,Manor North,Manor
+E01031288,Manor West,Manor
+E01031289,Manor East,Manor
+E01031290,Milverton Cliffe,Milverton
+E01031291,Milverton South East,Clarendon
+E01031292,Milverton West,Milverton
+E01031293,Milverton South West,Clarendon
+E01031294,Milverton East,Milverton
+E01031295,Milverton North,Milverton
+E01031296,Knowle Hill & Glasshouse,Park Hill
+E01031297,Ladyes Hills & Mill End West,Park Hill
+E01031298,Whitemoor,Park Hill
+E01031299,Glass House & Windy Arbour,Park Hill
+E01031300,Mill End East & Crackley,Park Hill
+E01031301,Offchurch & Hunningham,Radford Semele
+E01031302,Radford Semele,Radford Semele
+E01031303,Kenilworth Town Centre South,St. John's
+E01031304,Borrowell,St. John's
+E01031305,Thickthorn & Castle End,St. John's
+E01031306,St. John's Playing Fields,St. John's
+E01031307,Castle End & Windy Arbour,St. John's
+E01031308,Stoneleigh,Stoneleigh & Cubbington
+E01031309,Emscote,Emscote
+E01031310,Woodloes South East & Spinney Hill South,Emscote
+E01031311,Emscote & Spinney Hill North East,Emscote
+E01031312,Wedgenock & Woodloes West,Woodloes
+E01031313,Woodloes North,Woodloes
+E01031314,Woodloes East,Woodloes
+E01031315,"Warwick Gates North, Tachbrook Park & Myton South",Myton & Heathcote
+E01031316,"St. Nicholas Park, Myton & Emscote South",Saltisford
+E01031317,"Bridge End, Castle & Stratford Rd East",Aylesford
+E01031318,Warwick Gates,Myton & Heathcote
+E01031319,Emscote Lawns,Emscote
+E01031320,The Moorings & Myton North,Myton & Heathcote
+E01031321,Warwick - Packmores West & The Cape,Saltisford
+E01031322,Warwick - The Cape & Wedgenock,Saltisford
+E01031323,"Warwick - Priory Park, Packmores & Hospital",Saltisford
+E01031324,Warwick Town Centre & Racecourse,Aylesford
+E01031325,Warwick - Shakespeare Avenue North,Aylesford
+E01031327,Whitnash North,Whitnash
+E01031328,Whitnash East & Millponds,Sydenham
+E01031329,Whitnash West,Whitnash
+E01031330,Whitnash - St. Margarets,Whitnash
+E01031331,Whitnash South,Whitnash
+E01031332,Sydenham West,Sydenham
+E01031333,Sydenham North,Sydenham
+E01031334,Sydenham South & East,Sydenham
+E01031335,Leamington - Old Town North,Leam
+E01031336,Leamington - Old Town North West,Leam
+E01031337,Leamington - Old Town East & Sydenham Ind. Est.,Leam
+E01032588,Exhall Grange,Exhall
+E01032890,Camp Hill Village & West,Camp Hill
+E01032891,Coton Park,Coton and Boughton
+E01032892,"Easenhall, Newton & Biggin & Harborough Magna",Coton and Boughton
+E01032893,Cawston South,Admirals and Cawston
+E01032894,Cawston Central,Admirals and Cawston
+E01032895,Cawston North,Admirals and Cawston
+E01033250,Bridgetown South East,Bridgetown
+E01033251,Alveston Hill & Rural,Tiddington
+E01033252,Bridgetown North East & Golf Course,Tiddington
+E01033253,Leamington Town Centre - Regent Street,Clarendon
+E01033254,Chase Meadow,Aylesford
+E01033255,Kings Meadow & Longbridge,Aylesford
+E01033256,Leamington Town Centre - Portland Street,Clarendon
